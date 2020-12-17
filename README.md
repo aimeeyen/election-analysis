@@ -2,8 +2,8 @@
 
 Resources file: [election_results.csv](https://github.com/aimeeyen/election-analysis/blob/main/Resources/election_results.csv)
 
-# Purpose
-Provide an automation and efficency on conducting election audit by using Python language in command line to validiate election audit results.
+## Purpose
+Provide an automation and efficient method on conducting election audit by using Python language in command line to validiate election audit results.
 
 ## Election Results
 ![Election Results](https://github.com/aimeeyen/election-analysis/blob/main/Snapshot%20of%20election%20summaryAM.png)
