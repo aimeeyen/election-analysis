@@ -12,7 +12,7 @@ Provide an automation and efficient method on conducting election audit by using
 
 ***369,711*** total votes were cast in this congressional election.
 
-    - Largest County Turnout: ***Denver*** had 306,055 votes, accounts for 82.8% of the total votes: 369,711. 
+    - Largest County Turnout: :white_check_mark: Denver had 306,055 votes, accounts for 82.8% of the total votes: 369,711. 
 
     - 2nd County Turnout: Jefferson: 38,855 votes, accounts for 10.5% of the total votes. 
 
