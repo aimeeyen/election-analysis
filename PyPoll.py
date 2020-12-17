@@ -43,6 +43,7 @@ with open(file_to_load) as election_data:
     # Determine winning vote count and candidate
     winning_count=0
     winning_percentage=0
+    
     #Determine the percentage of votes for each candidate by looping through the counts.
     # 1. Iterate through the candidate list.
     for candidate_name in candidate_votes:
