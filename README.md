@@ -12,7 +12,7 @@ Provide an automation and efficient method on conducting election audit by using
 
 ***369,711*** total votes were cast in this congressional election.
 
-    - Largest County Turnout: :white_check_mark: Denver had 306,055 votes, accounts for 82.8% of the total votes: 369,711. 
+    - Largest County Turnout: Denver had 306,055 votes, accounts for 82.8% of the total votes: 369,711. 
 
     - 2nd County Turnout: Jefferson: 38,855 votes, accounts for 10.5% of the total votes. 
 
@@ -25,7 +25,7 @@ Provide an automation and efficient method on conducting election audit by using
     - 3rd in place: Raymond Anthony Doane: at 11,606 account for 3.1% of the total votes. 
 
 
-# Election-Audit Summary: 
+## Election-Audit Summary: 
 
 This scrip can be use to validate state-wide election audit with ability to compile large sum of data and information. Even for state Sentor and even Presidential election. With modificaiton to define additional Python dictionary to store value and sum up total votes and list to store various names of states. A automation script to handle large sum of data in comparing and validate election result in a must more efficent way. 
 
