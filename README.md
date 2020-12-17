@@ -10,7 +10,7 @@ Provide an automation and efficency on conducting election audit by using Python
 
 ## Overview of Election Audit
 
-369,711 total votes were cast in this congressional election.
+***369,711*** total votes were cast in this congressional election.
 
     - Largest County Turnout: ***Denver*** had 306,055 votes, accounts for 82.8% of the total votes: 369,711. 
 
@@ -18,7 +18,7 @@ Provide an automation and efficency on conducting election audit by using Python
 
     - 3rd County Turnout: Arapahoe: 24,801 votes, account for 6.7% of the total votes.  
 
-:trophy:***Diana DeGaette*** won the election, total of 272,892 votes which account for 73.8% of total vote casted: 369,711. 
+:trophy: ***Diana DeGaette*** won!! 272,892 votes account for 73.8% of total vote casted. 
 
     - 2nd in place: Charles Casper Stockham: at 85,213 account for 23% of the total votes.
     
